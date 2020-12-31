@@ -4,9 +4,9 @@ This app helps you to list down your products with their respective retailers an
 Especially useful when you are building a PC and sourcing for different components to get the best deal.
 ![Alt Text](bgm.jpg)
 ## Screenshots
-![Alt Text](demo.png)
+![Alt Text](demo1.png)
 
-##Demo
+## Demo
 ![Alt Text](demo.gif)
 
 ## Instructions
